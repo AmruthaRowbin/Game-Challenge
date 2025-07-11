@@ -36,4 +36,19 @@ git clone https://github.com/AmruthaRowbin/Game-Challenge.git
 cd gigglle-challenge-api
 
 
+ Postman Collection
+A Postman collection is included to make it easy to test all available API endpoints.
+
+You can import the collection into Postman using the provided .json file.
+
+This collection includes:
+
+GET /challenges
+
+POST /submissions
+
+GET /submissions
+
+POST /submissions/preview
+
 
